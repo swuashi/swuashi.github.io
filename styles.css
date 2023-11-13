@@ -189,12 +189,16 @@ footer {
 #hero {
     text-align: center;
     height: 50vh;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 
 #premisa {
     text-align: center;
     height: 50vh;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 #premisa p {
