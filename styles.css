@@ -193,14 +193,39 @@ footer {
     margin-left: 5px;
 }
 
+#hero img {
+    padding-top: 1.5rem;
+}
 
 #premisa {
     text-align: center;
-    height: 50vh;
     margin-right: 5px;
     margin-left: 5px;
+    padding-bottom: 2rem;
 }
 
 #premisa p {
+    padding-top: 1rem;
+}
+
+#hypoteza {
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-bottom: 2rem;
+}
+
+#hypoteza p {
+    padding-top: 1rem;
+}
+
+#plany {
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-bottom: 2rem;
+}
+
+#plany p {
     padding-top: 1rem;
 }
