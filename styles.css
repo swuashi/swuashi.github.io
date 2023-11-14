@@ -188,9 +188,10 @@ footer {
 
 #hero {
     text-align: center;
-    height: 50vh;
     margin-right: 5px;
     margin-left: 5px;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 
 #hero img {
